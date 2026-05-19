@@ -306,7 +306,7 @@ npm run dev
 
 ## DRASHTANTA SAXENA
 
-MCA Student | AI & Full Stack Developer
+AI & Full Stack Developer
 
 Passionate about building AI-powered scalable SaaS platforms, intelligent automation systems, and modern web applications.
 
